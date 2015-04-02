@@ -1,6 +1,8 @@
 [jsonp.net](http://jsonp.net)
 =============================
 
+[![Join the chat at https://gitter.im/developit/jsonp.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/developit/jsonp.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A JSONp-based web proxy.
 
 Disclaimer: I'm open-sourcing this old service so that anyone using it can maintain it.
