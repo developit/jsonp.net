@@ -1,6 +1,8 @@
 [jsonp.net](http://jsonp.net)
 =============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/jsonp.net.svg)](https://greenkeeper.io/)
+
 [![Join the chat at https://gitter.im/developit/jsonp.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/developit/jsonp.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A JSONp-based web proxy.
